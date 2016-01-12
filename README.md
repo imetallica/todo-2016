@@ -10,7 +10,12 @@
 > 0/10
 
 ## Read two books about programming languages.
-> 0/2
+> 1/2
+
+### [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+#### by Chris McCord, Bruce Tate, and José Valim
+Excellent book. It's a must have for everyone who wants to build scalable, fast and fault-tolerant web apps.
+
 
 ## Read two books about business.
 > 0/2
