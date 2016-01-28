@@ -36,4 +36,5 @@ Excellent book. It's a must have for everyone who wants to build scalable, fast 
 > 0%
 
 ## Contribute 150 times to OpenSource projects.
-> 0/150
+> 1/150
+- GuardianDB: Set postgrex as optional dependency. [commit](https://github.com/hassox/guardian_db/commit/79d1d9c434e8f3243f3805ecab517d3734ed361d)
