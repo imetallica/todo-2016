@@ -1,7 +1,9 @@
 # TODO-2016
 
 ## Lauch my main project.
-> 0%
+> 100%
+
+[.Fix](www.dot-fix.com): My company.
 
 ## Give a talk on ElixirMeetUp, RJ.
 > Not complete
